@@ -1,0 +1,2 @@
+# Ghipy-Magic
+homework6
