@@ -50,7 +50,7 @@ function onSearch() {
     // }
 
 
-    var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + value +
+    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + value +
         "&api_key=fe9SwUMw7Dpp1WP5FqZfMp3BfjBdjsPq&limit=10";
 
 
