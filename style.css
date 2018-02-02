@@ -1,0 +1,41 @@
+.bodyCol {
+	background-image:url(woodPic.jpg)
+
+}
+
+.header1 {
+	background-color:tomato;
+	font-size:40px;
+	text-align:center;
+	height:80px;
+	margin-left:300px;
+	margin-right:300px;
+	margin-top:10px;
+	padding-top:20px;
+	margin-bottom:30px;
+	font-family:Impact, Charcoal, sans-serif;
+}
+
+
+.header2{
+	color:#00ff99;
+	font-family:Impact, Charcoal, sans-serif;
+	margin-top:-60px;
+	font-size:35px;
+}
+.buttons {
+	background-color:tomato; 
+	color:black; 
+	width:80px;
+	height:40px;
+	font-family:Impact, Charcoal, sans-serif;
+	font-size:15px;
+
+}
+
+p{
+	font-weight: bold;
+	color: white;
+	font-family:Impact, Charcoal, sans-serif;
+
+}
